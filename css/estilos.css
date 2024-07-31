@@ -273,7 +273,7 @@ footer .logo-footer{
 }
 
 #nosotros{
-    background-image: url(/Front/img/nosotros.jpg);
+    background-image: url(img/nosotros.jpg);
     background-size: cover;  /*Va a cubrir todo el espacio que tenga*/    
 }
 
