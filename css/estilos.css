@@ -290,9 +290,9 @@ footer .logo-footer{
     box-shadow: 10px 10px 5px rgba(0, 0, 0, 0.5); /*Sombra en los cuadrados*/
 }
 
-#servicios .bloque-servicio .bloque-img-servicio{
+/* #servicios .bloque-servicio .bloque-img-servicio{
     
-}
+} */
 
 #servicios .bloque-servicio .bloque-img-servicio img{
     width: 100%;
@@ -318,9 +318,9 @@ footer .logo-footer{
     font-size: 25px;
 }
 
-#galeria{
+/* #galeria{
 
-}
+} */
 
 #galeria h4{
     padding-left: 15px;
